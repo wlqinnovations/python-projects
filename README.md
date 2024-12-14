@@ -1,5 +1,3 @@
----
-
 ### **Repository Name**: `python-portfolio`
 
 **Description**:  
@@ -11,9 +9,6 @@ A collection of Python projects showcasing my programming skills, creativity, an
 - Categories include:
   - Web Applications: Flask/Django projects.
   - Data Analysis: Pandas, NumPy, Matplotlib-based solutions.
-  - Machine Learning: Projects leveraging Scikit-learn, TensorFlow, or PyTorch.
-  - Automation: Scripts for task automation and data scraping.
-  - Algorithms: Implementations of classic algorithms and data structures.
   
 Feel free to explore, clone, and use these projects for inspiration or learning purposes!
 
